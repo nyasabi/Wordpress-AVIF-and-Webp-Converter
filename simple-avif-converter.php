@@ -4,7 +4,7 @@
  * Description: 既存のメディア画像（JPEG/PNG）をAVIF・WebPに変換し、対応ブラウザに <picture> で配信します。共有レンタルサーバー向けにAjaxバッチ処理で動作。削減容量も集計します。
  * Version:     1.5.0
  * Author:      wasabi
- * License: AGPL3.0    
+ * License: GPL3.0    
  * Requires PHP: 7.4
  * Requires at least: 6.0
  */
